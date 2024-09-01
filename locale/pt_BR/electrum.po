@@ -413,7 +413,7 @@ msgstr "O endereço não está na carteira."
 
 #: electrum/wallet.py:815
 msgid "Address not in wallet: {}"
-msgstr "Endereço não está na carteira: {}.\n"
+msgstr "Endereço não está na carteira: {}."
 ""
 
 #: electrum/gui/qt/utxo_dialog.py:64
